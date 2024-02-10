@@ -7,7 +7,7 @@ I'm Toraj Ghaffari, a passionate software engineer with expertise in both backen
 - 💎 Ruby: Skilled in Ruby on Rails
 - 🌐 .NET Core: Experienced in building applications
 - 🗃️ Databases: PostgreSQL, MySQL, SQL Server
-- 🐳 Containers: Docker and Docker Compose
+- 🐳 Containers: Docker
 - 🌐 Web Server: Nginx
 - 🐧 Operating Systems: Linux
 - 🔄 CI/CD: Proficient in CircleCI
